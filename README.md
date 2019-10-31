@@ -6,5 +6,4 @@ Technologies used in this app include React with Redux, MongoDB, and Node with E
 
 The app is deployed at: [Weather Temps App](https://weather-temps.herokuapp.com/)
 
-Screenshot of the app:
 ![Weather and Sea Temps App](./screenshot.png "Weather and Sea Temps App")
